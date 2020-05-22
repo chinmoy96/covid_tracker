@@ -1,4 +1,8 @@
 .container{
     text-align:center;
     margin: auto 0px;
+    
+}
+body{
+    background-color:snow;
 }
